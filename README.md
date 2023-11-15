@@ -1,6 +1,11 @@
-# MyFirstApp
+# Angular web Projects
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+In this projects i wnat to show all of my dev skills.
+
+
+
+
 
 ## Development server
 
